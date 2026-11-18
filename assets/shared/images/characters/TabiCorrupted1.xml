@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TabiCorrupted1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tabi Animation0000" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0001" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0002" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0003" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0004" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0005" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0006" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0007" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0008" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0009" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0010" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0011" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0012" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0013" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0014" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0015" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0016" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0017" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0018" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0019" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0020" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0021" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0022" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0023" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0024" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0025" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0026" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0027" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0028" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0029" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0030" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0031" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0032" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0033" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0034" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0035" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0036" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0037" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0038" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0039" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0040" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0041" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0042" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0043" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0044" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0045" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0046" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0047" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0048" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0049" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0050" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0051" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0052" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0053" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0054" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0055" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0056" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0057" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0058" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0059" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0060" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0061" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0062" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0063" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0064" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0065" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0066" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0067" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0068" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0069" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0070" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0071" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0072" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0073" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0074" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0075" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0076" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0077" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0078" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0079" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0080" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0081" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0082" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0083" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0084" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0085" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0086" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0087" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0088" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0089" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0090" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0091" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0092" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0093" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0094" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0095" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0096" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0097" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0098" x="0" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0099" x="1280" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0100" x="1280" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0101" x="1280" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0102" x="1280" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0103" x="1280" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0104" x="2560" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0105" x="2560" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0106" x="2560" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0107" x="2560" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0108" x="3840" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0109" x="3840" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0110" x="3840" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0111" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0112" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0113" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0114" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0115" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0116" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0117" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0118" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0119" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0120" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0121" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0122" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0123" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0124" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0125" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0126" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0127" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0128" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0129" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0130" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0131" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0132" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0133" x="5120" y="0" width="1280" height="720" frameX="0" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0134" x="6400" y="0" width="1280" height="720" frameX="-9" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0135" x="6400" y="0" width="1280" height="720" frameX="-9" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0136" x="0" y="720" width="1280" height="720" frameX="-67" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0137" x="0" y="720" width="1280" height="720" frameX="-67" frameY="-40" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0138" x="1280" y="720" width="1280" height="720" frameX="-213" frameY="-39" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0139" x="1280" y="720" width="1280" height="720" frameX="-213" frameY="-39" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0140" x="2560" y="720" width="1280" height="720" frameX="-499" frameY="-37" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0141" x="2560" y="720" width="1280" height="720" frameX="-499" frameY="-37" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0142" x="0" y="720" width="1280" height="720" frameX="-710" frameY="-47" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0143" x="0" y="720" width="1280" height="720" frameX="-710" frameY="-47" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0144" x="1280" y="720" width="1280" height="720" frameX="-828" frameY="-63" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0145" x="1280" y="720" width="1280" height="720" frameX="-828" frameY="-63" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0146" x="3840" y="720" width="1480" height="765" frameX="-892" frameY="-6" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0147" x="3840" y="720" width="1480" height="765" frameX="-892" frameY="-6" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0148" x="5320" y="720" width="1462" height="765" frameX="-998" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0149" x="5320" y="720" width="1462" height="765" frameX="-998" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0150" x="0" y="1485" width="1491" height="777" frameX="-1060" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0151" x="0" y="1485" width="1491" height="777" frameX="-1060" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0152" x="1491" y="1485" width="1505" height="765" frameX="-1290" frameY="-6" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0153" x="1491" y="1485" width="1505" height="765" frameX="-1290" frameY="-6" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0154" x="2996" y="1485" width="1524" height="765" frameX="-1467" frameY="0" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0155" x="2996" y="1485" width="1524" height="765" frameX="-1467" frameY="0" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0156" x="4520" y="1485" width="1516" height="773" frameX="-1639" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0157" x="4520" y="1485" width="1516" height="773" frameX="-1639" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0158" x="6036" y="1485" width="1530" height="765" frameX="-1849" frameY="-15" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0159" x="6036" y="1485" width="1530" height="765" frameX="-1849" frameY="-15" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0160" x="0" y="2262" width="1458" height="765" frameX="-2085" frameY="-10" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0161" x="0" y="2262" width="1458" height="765" frameX="-2085" frameY="-10" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0162" x="1458" y="2262" width="1494" height="787" frameX="-2204" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0163" x="1458" y="2262" width="1494" height="787" frameX="-2204" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0164" x="2952" y="2262" width="1460" height="780" frameX="-2536" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0165" x="2952" y="2262" width="1460" height="780" frameX="-2536" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0166" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0167" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0168" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0169" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0170" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0171" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0172" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0173" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0174" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0175" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0176" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0177" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0178" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0179" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0180" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0181" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0182" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0183" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0184" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0185" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0186" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0187" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0188" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0189" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0190" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0191" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0192" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0193" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0194" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0195" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0196" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0197" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0198" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0199" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0200" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0201" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0202" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0203" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0204" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0205" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0206" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0207" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0208" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0209" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0210" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0211" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0212" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0213" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0214" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0215" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Animation0216" x="4412" y="2262" width="0" height="0" frameX="-402" frameY="-7" frameWidth="3996" frameHeight="794"/>
+	<SubTexture name="Tabi Down Note0000" x="4412" y="2262" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Down Note0001" x="4412" y="2262" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Down Note0002" x="4412" y="2262" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Down Note0003" x="4412" y="2262" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Down Note0004" x="5692" y="2262" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Down Note0005" x="5692" y="2262" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Down Note0006" x="5692" y="2262" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Down Note0007" x="5692" y="2262" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Down Note0008" x="5692" y="2262" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Down Note0009" x="5692" y="2262" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Down Note0010" x="5692" y="2262" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Down Note0011" x="5692" y="2262" width="1280" height="720" frameX="0" frameY="-1" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="Tabi Idle0000" x="0" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0001" x="0" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0002" x="0" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0003" x="1280" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0004" x="1280" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0005" x="1280" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0006" x="2560" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0007" x="2560" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0008" x="2560" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0009" x="2560" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0010" x="3840" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0011" x="3840" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0012" x="3840" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0013" x="3840" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0014" x="0" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0015" x="0" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0016" x="0" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0017" x="0" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0018" x="0" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Idle0019" x="0" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0000" x="5120" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0001" x="5120" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0002" x="5120" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0003" x="5120" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0004" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0005" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0006" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0007" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0008" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0009" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0010" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0011" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0012" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0013" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0014" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0015" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0016" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Left Note0017" x="6400" y="3049" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0000" x="0" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0001" x="0" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0002" x="0" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0003" x="0" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0004" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0005" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0006" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0007" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0008" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0009" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0010" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0011" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0012" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0013" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0014" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Right Note0015" x="1280" y="3769" width="1280" height="720"/>
+	<SubTexture name="Tabi Up Note0000" x="2560" y="3769" width="1280" height="746"/>
+	<SubTexture name="Tabi Up Note0001" x="2560" y="3769" width="1280" height="746"/>
+	<SubTexture name="Tabi Up Note0002" x="2560" y="3769" width="1280" height="746"/>
+	<SubTexture name="Tabi Up Note0003" x="2560" y="3769" width="1280" height="746"/>
+	<SubTexture name="Tabi Up Note0004" x="3840" y="3769" width="1280" height="744" frameX="0" frameY="-2" frameWidth="1280" frameHeight="746"/>
+	<SubTexture name="Tabi Up Note0005" x="3840" y="3769" width="1280" height="744" frameX="0" frameY="-2" frameWidth="1280" frameHeight="746"/>
+	<SubTexture name="Tabi Up Note0006" x="3840" y="3769" width="1280" height="744" frameX="0" frameY="-2" frameWidth="1280" frameHeight="746"/>
+	<SubTexture name="Tabi Up Note0007" x="3840" y="3769" width="1280" height="744" frameX="0" frameY="-2" frameWidth="1280" frameHeight="746"/>
+	<SubTexture name="Tabi Up Note0008" x="5120" y="3769" width="1280" height="720" frameX="0" frameY="-26" frameWidth="1280" frameHeight="746"/>
+	<SubTexture name="Tabi Up Note0009" x="5120" y="3769" width="1280" height="720" frameX="0" frameY="-26" frameWidth="1280" frameHeight="746"/>
+	<SubTexture name="Tabi Up Note0010" x="5120" y="3769" width="1280" height="720" frameX="0" frameY="-26" frameWidth="1280" frameHeight="746"/>
+	<SubTexture name="Tabi Up Note0011" x="5120" y="3769" width="1280" height="720" frameX="0" frameY="-26" frameWidth="1280" frameHeight="746"/>
+	<SubTexture name="Tabi Up Note0012" x="5120" y="3769" width="1280" height="720" frameX="0" frameY="-26" frameWidth="1280" frameHeight="746"/>
+	<SubTexture name="Tabi Up Note0013" x="5120" y="3769" width="1280" height="720" frameX="0" frameY="-26" frameWidth="1280" frameHeight="746"/>
+	<SubTexture name="Tabi Up Note0014" x="5120" y="3769" width="1280" height="720" frameX="0" frameY="-26" frameWidth="1280" frameHeight="746"/>
+</TextureAtlas>

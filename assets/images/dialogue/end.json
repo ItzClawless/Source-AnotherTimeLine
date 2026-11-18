@@ -1,0 +1,36 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		10,
+		50
+	],
+	"scale": 1.35,
+	"animations": [
+		{
+			"idle_name": "BF0",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-151,
+				-39
+			]
+		},
+		{
+			"idle_offsets": [
+				-160,
+				-20
+			],
+			"anim": "GF CONFUSED",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF CONFUSED",
+			"loop_name": ""
+		}
+	],
+	"image": "2_Dialogue"
+}

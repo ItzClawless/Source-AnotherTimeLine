@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"expression": "fear",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hex"
+		},
+		{
+			"expression": "sweat2",
+			"text": "so... You're making chaos in the world, no?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hex"
+		},
+		{
+			"expression": "wall",
+			"text": "corrupting everyone... my friends",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hex"
+		},
+		{
+			"expression": "sweat2",
+			"text": "and now you're inside me... about to shut down my system",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hex"
+		},
+		{
+			"expression": "talk",
+			"text": ".....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.09,
+			"portrait": "sbf"
+		},
+		{
+			"expression": "fear",
+			"text": "well... if this is so, I will fight... for my friends",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hex"
+		},
+		{
+			"expression": "fear",
+			"text": "I will fight for my friends, all my friends...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hex"
+		},
+		{
+			"expression": "sweat2",
+			"text": ".....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.145,
+			"portrait": "hex"
+		},
+		{
+			"expression": "sweat",
+			"text": "well... not that I have that many",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hex"
+		},
+		{
+			"expression": "wall",
+			"text": "but... but...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.16,
+			"portrait": "hex"
+		},
+		{
+			"expression": "talk",
+			"text": "....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.225,
+			"portrait": "sbf"
+		},
+		{
+			"expression": "fear",
+			"text": "... you know, I'm not one to fight, but if this is about my friends...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "hex"
+		},
+		{
+			"expression": "fear",
+			"text": "well... I'll make you regret messing with us!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "hex"
+		},
+		{
+			"expression": "talk",
+			"text": ".......",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.115,
+			"portrait": "sbf"
+		},
+		{
+			"expression": "talk",
+			"text": "that's what everyone says",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "sbf"
+		},
+		{
+			"expression": "sweat2",
+			"text": "....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.13,
+			"portrait": "hex"
+		},
+		{
+			"expression": "fear",
+			"text": "not until it is proven!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "hex"
+		}
+	]
+}

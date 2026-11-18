@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				211,
+				-20
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				70
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				208,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sing Right0"
+		},
+		{
+			"offsets": [
+				141,
+				97
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sing Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soulBF",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "SBF",
+	"flip_x": true,
+	"healthbar_colors": [
+		45,
+		45,
+		45
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

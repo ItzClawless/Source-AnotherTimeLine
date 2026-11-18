@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "whitty potrail 20",
+			"text": "shit...",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "whitty potrail 20",
+			"text": "this thing... hurts",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "whitty potrail 20",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "whitty potrail 20",
+			"text": "but...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "whitty potrail 20",
+			"text": "if this is the price to end my suffering... I will do it...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "whitty potrail 20",
+			"text": "after a long time... at last I can rest in peace",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "whitty potrail 20",
+			"text": "rest from so much... pain, so much anger...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"speed": 0.175,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "......."
+		},
+		{
+			"speed": 0.095,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "whitty potrail 20",
+			"text": "why... why can't I give up?...."
+		},
+		{
+			"speed": 0.135,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "whitty potrail 20",
+			"text": "after all...."
+		},
+		{
+			"speed": 0.215,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "whitty potrail 2 carol0",
+			"text": "......"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "whitty potrail 20",
+			"text": "You know, I've been through a lot... but I'm not going to give it all up for a dwarf..."
+		},
+		{
+			"speed": 0.095,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "whitty potrail 20",
+			"text": "I can't give it all up...not now"
+		},
+		{
+			"speed": 0.14,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "resist is useless"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "whitty potrail 20",
+			"text": "sorry, but I remembered something important"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "angry",
+			"expression": "whitty potrail 20",
+			"text": "SURVIVE"
+		}
+	]
+}

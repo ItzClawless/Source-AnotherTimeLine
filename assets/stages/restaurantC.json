@@ -1,0 +1,9 @@
+{
+	"directory": "whitty",
+	"defaultZoom": 0.8,
+	"isPixelStage": false,
+
+	"boyfriend": [1240, 50],
+	"girlfriend": [700, 0],
+	"opponent": [-100, 100]
+}

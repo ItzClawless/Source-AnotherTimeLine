@@ -1,0 +1,43 @@
+{
+	"storyName": "old days..",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "chapter4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"deprave classic",
+			"whittydeprave",
+			[
+				200,
+				40,
+				80
+			]
+		],
+		[
+			"pressure classic",
+			"whittypressure",
+			[
+				200,
+				40,
+				80
+			]
+		],
+		[
+			"infernum classic",
+			"whittyinfernum1",
+			[
+				200,
+				40,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week5"
+}

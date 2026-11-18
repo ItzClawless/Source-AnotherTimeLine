@@ -1,0 +1,25 @@
+{
+	"storyName": "Deleting",
+	"hideFreeplay": false,
+	"weekBackground": "whitty3",
+	"weekBefore": "chapter2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"removing-data",
+			"hex",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}

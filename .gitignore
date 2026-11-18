@@ -22,7 +22,6 @@ export/*
 bin.zip
 bin/
 export/
-assets/
 plugins/
 dlls/
 .haxelib/

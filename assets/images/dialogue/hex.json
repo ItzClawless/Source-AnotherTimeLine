@@ -1,0 +1,76 @@
+{
+	"position": [
+		210,
+		-10
+	],
+	"dialogue_pos": "left",
+	"scale": 1.3,
+	"image": "Hed_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"loop_name": "An1",
+			"idle_name": "An1"
+		},
+		{
+			"loop_name": "An2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "An2",
+			"anim": "sweat",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "An3",
+			"idle_offsets": [
+				1,
+				13
+			],
+			"idle_name": "An3",
+			"anim": "fear",
+			"loop_offsets": [
+				1,
+				13
+			]
+		},
+		{
+			"loop_name": "An4",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "An4",
+			"anim": "sweat2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "An5",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "An5",
+			"anim": "wall",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

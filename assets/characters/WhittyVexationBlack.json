@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				431,
+				-19
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				430,
+				-44
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				474,
+				43
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				430,
+				-30
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 20,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				382,
+				-36
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				430,
+				-30
+			],
+			"loop": false,
+			"anim": "attack",
+			"fps": 20,
+			"name": "Attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				430,
+				-30
+			],
+			"loop": false,
+			"anim": "Scream",
+			"fps": 20,
+			"name": "Scream",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WhittyVexationBlack",
+	"position": [
+		-30,
+		40
+	],
+	"healthicon": "whittyVexation",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		19,
+		135
+	],
+	"camera_position": [
+		-450,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				408,
+				-20
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				430,
+				-10
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				444,
+				-30
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				450,
+				-31
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				44
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Crazy",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whittyCorrupt3",
+	"position": [
+		-40,
+		50
+	],
+	"healthicon": "whittyC3",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		102,
+		106
+	],
+	"camera_position": [
+		-450,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

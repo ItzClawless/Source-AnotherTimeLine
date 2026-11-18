@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.6,
+		"stage": "restaurantC",
+		"player1": "WhittyPlayable2",
+		"player2": "TabiCorrupted2",
+		"player3": null,
+		"events": [
+			[
+				247887.323943662,
+				[
+					[
+						"Flash",
+						"0.1",
+						"1"
+					]
+				]
+			],
+			[
+				247957.746478874,
+				[
+					[
+						"Flash",
+						"9999",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "bfdance",
+		"bpm": 213,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Ballistic Murder"
+	}
+}

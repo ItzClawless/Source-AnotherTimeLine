@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-440,
+		-120
+	],
+	"scale": 1.3,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-152,
+				-39
+			],
+			"idle_offsets": [
+				-152,
+				-39
+			],
+			"idle_name": "whitty potrail 1 idle0",
+			"loop_name": "whitty potrail 10"
+		},
+		{
+			"idle_offsets": [
+				-160,
+				-20
+			],
+			"anim": "whitty potrail 20",
+			"loop_offsets": [
+				-160,
+				-20
+			],
+			"idle_name": "whitty potrail 2 idle0",
+			"loop_name": "whitty potrail 20"
+		},
+		{
+			"idle_offsets": [
+				-160,
+				-20
+			],
+			"anim": "whitty potrail 2 carol0",
+			"loop_offsets": [
+				-160,
+				-20
+			],
+			"idle_name": "whitty potrail 2 carol0",
+			"loop_name": "whitty potrail 2 carol idle0"
+		}
+	],
+	"image": "Whitty_Dialogue"
+}

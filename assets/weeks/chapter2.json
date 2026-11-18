@@ -1,0 +1,48 @@
+{
+	"storyName": "whitty and tabi",
+	"hideFreeplay": false,
+	"weekBackground": "whitty2",
+	"weekBefore": "chapter1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Silence",
+			"tabi1",
+			[
+				80,
+				40,
+				80
+			]
+		],
+		[
+			"Resist",
+			"tabi2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Ballistic Murder",
+			"tabi2",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Whitty and Tabi"
+}

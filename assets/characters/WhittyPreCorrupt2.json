@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				482,
+				25
+			],
+			"anim": "Scream0",
+			"fps": 24,
+			"name": "Scream0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				-30
+			],
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WhittyPreCorrupt2",
+	"position": [
+		-50,
+		-390
+	],
+	"healthicon": "whittyPreCorrupt",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		19,
+		135
+	],
+	"camera_position": [
+		-420,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

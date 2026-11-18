@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Whitty_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="whitty potrail 10000" x="0" y="0" width="1280" height="713" frameX="0" frameY="-7" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="whitty potrail 10001" x="0" y="0" width="1280" height="713" frameX="0" frameY="-7" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="whitty potrail 10002" x="1280" y="0" width="1280" height="718" frameX="0" frameY="-2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="whitty potrail 10003" x="1280" y="0" width="1280" height="718" frameX="0" frameY="-2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="whitty potrail 10004" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="whitty potrail 10005" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="whitty potrail 10006" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="whitty potrail 10007" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="whitty potrail 10008" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="whitty potrail 10009" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="whitty potrail 1 idle0000" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="whitty potrail 1 idle0001" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="whitty potrail 20000" x="6400" y="0" width="1280" height="716" frameX="0" frameY="-7" frameWidth="1280" frameHeight="724"/>
+	<SubTexture name="whitty potrail 20001" x="6400" y="0" width="1280" height="716" frameX="0" frameY="-7" frameWidth="1280" frameHeight="724"/>
+	<SubTexture name="whitty potrail 20002" x="0" y="720" width="1280" height="721" frameX="0" frameY="-2" frameWidth="1280" frameHeight="724"/>
+	<SubTexture name="whitty potrail 20003" x="0" y="720" width="1280" height="721" frameX="0" frameY="-2" frameWidth="1280" frameHeight="724"/>
+	<SubTexture name="whitty potrail 20004" x="1280" y="720" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 20005" x="1280" y="720" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 20006" x="2560" y="720" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 20007" x="2560" y="720" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 20008" x="3840" y="720" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 20009" x="3840" y="720" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 2 carol0000" x="5120" y="720" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 2 carol0001" x="6400" y="720" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 2 carol idle0000" x="0" y="1444" width="1280" height="716" frameX="0" frameY="-7" frameWidth="1280" frameHeight="724"/>
+	<SubTexture name="whitty potrail 2 carol idle0001" x="0" y="1444" width="1280" height="716" frameX="0" frameY="-7" frameWidth="1280" frameHeight="724"/>
+	<SubTexture name="whitty potrail 2 carol idle0002" x="1280" y="1444" width="1280" height="721" frameX="0" frameY="-2" frameWidth="1280" frameHeight="724"/>
+	<SubTexture name="whitty potrail 2 carol idle0003" x="1280" y="1444" width="1280" height="721" frameX="0" frameY="-2" frameWidth="1280" frameHeight="724"/>
+	<SubTexture name="whitty potrail 2 carol idle0004" x="2560" y="1444" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 2 carol idle0005" x="2560" y="1444" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 2 carol idle0006" x="3840" y="1444" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 2 carol idle0007" x="3840" y="1444" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 2 carol idle0008" x="5120" y="1444" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 2 carol idle0009" x="5120" y="1444" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 2 idle0000" x="2560" y="720" width="1280" height="724"/>
+	<SubTexture name="whitty potrail 2 idle0001" x="2560" y="720" width="1280" height="724"/>
+</TextureAtlas>

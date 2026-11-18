@@ -1,0 +1,57 @@
+{
+	"storyName": "the last hope...",
+	"hideFreeplay": false,
+	"weekBackground": "whitty1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"vexation classic",
+			"whittyinfernum3",
+			[
+				200,
+				40,
+				80
+			]
+		],
+		[
+			"bruh",
+			"whittydeprave",
+			[
+				100,
+				0,
+				80
+			]
+		],
+		[
+			"sadboy",
+			"whittyinfernum1",
+			[
+				200,
+				40,
+				80
+			]
+		],
+		[
+			"trixation",
+			"whittyinfernum3",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "week6"
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hed_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="An10000" x="0" y="0" width="250" height="493"/>
+	<SubTexture name="An20000" x="250" y="0" width="250" height="493"/>
+	<SubTexture name="An30000" x="500" y="0" width="217" height="508"/>
+	<SubTexture name="An40000" x="717" y="0" width="250" height="493"/>
+	<SubTexture name="An50000" x="0" y="508" width="250" height="493"/>
+</TextureAtlas>

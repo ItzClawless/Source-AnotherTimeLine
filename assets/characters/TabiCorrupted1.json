@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				10
+			],
+			"fps": 60,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tabi Left Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"fps": 60,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tabi Down Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				27
+			],
+			"fps": 60,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tabi Up Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"fps": 60,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tabi Idle"
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tabi Right Note"
+		},
+		{
+			"offsets": [
+				0,
+				39
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "Run",
+			"indices": [],
+			"name": "Tabi Animation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TabiCorrupted1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tabi1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		186,
+		130
+	],
+	"camera_position": [
+		-1340,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				648,
+				80
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hex crazy left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				532,
+				-70
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Hex crazy down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				554,
+				130
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hex crazy up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				450,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hex crazy idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				460,
+				-23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hex crazy right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hex-glitch",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "hex",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		102,
+		126
+	],
+	"camera_position": [
+		-450,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

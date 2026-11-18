@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": ".....",
+			"boxState": "normal",
+			"portrait": "whittyportV",
+			"speed": 0.055
+		},
+		{
+			"expression": "talk",
+			"text": "YOU TURNED EVERYONE I LOVED INTO MONSTERS!!",
+			"boxState": "angry",
+			"portrait": "whittyportV",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "YOU CORRUPT THEM ALL... YOU CORRUPT THE ONLY PEOPLE WHO KEEP ME SANE!",
+			"boxState": "angry",
+			"portrait": "whittyportV",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "YOU WERE ONE OF THOSE I WANTED...",
+			"boxState": "angry",
+			"portrait": "whittyportV",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "but look at you... you became my biggest nightmare",
+			"boxState": "normal",
+			"portrait": "whittyportV",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": ".......",
+			"boxState": "normal",
+			"portrait": "boyfriendport",
+			"speed": 0.135
+		},
+		{
+			"expression": "talk",
+			"text": "you corrupted carol... the only girlfriend i've ever had in my life...",
+			"boxState": "normal",
+			"portrait": "whittyportV",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "you murdered my only best friend... hex",
+			"boxState": "normal",
+			"portrait": "whittyportV",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "WHY DO YOU MAKING ME THIS!!!?.. JUST TELL ME!! TELL ME YOU DAMN PARASITE!!!",
+			"boxState": "angry",
+			"portrait": "whittyportV",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": ".....",
+			"boxState": "normal",
+			"portrait": "boyfriendport",
+			"speed": 0.135
+		},
+		{
+			"expression": "talk",
+			"text": "YOU RUINED MY LIFE!!",
+			"boxState": "angry",
+			"portrait": "whittyportV",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "AND NOW I WILL REVENGE FOR ALL THE DAMAGE YOU'VE DONE TO OTHERS!!",
+			"boxState": "angry",
+			"portrait": "whittyportV",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "THIS IS YOUR HELL, THIS IS YOUR PRICE, THIS IS YOUR END, THIS WILL BE YOUR VEXATION!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "whittyportV"
+		},
+		{
+			"expression": "talk",
+			"text": "........",
+			"boxState": "normal",
+			"portrait": "boyfriendport",
+			"speed": 0.18
+		}
+	]
+}

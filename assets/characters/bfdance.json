@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-64,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "SpookyDance",
+			"indices": [],
+			"name": "spooky dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				101
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "BF dance",
+			"indices": [
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				101
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "BF dance",
+			"indices": [
+				40,
+				41,
+				42,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		26,
+		47
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

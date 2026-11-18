@@ -1,0 +1,207 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "who...",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": ".......",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.32
+		},
+		{
+			"expression": "talk",
+			"text": "oh.. you..",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.075
+		},
+		{
+			"expression": "talk",
+			"text": "Why are you doing this?..",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": ".....",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.37
+		},
+		{
+			"expression": "talk",
+			"text": "Listen, I don't understand why this has \\nhappened to you, but just...",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'm tired of this life...",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I don't know what I will find in the next corner. some corrupt? a survivor?...",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.075
+		},
+		{
+			"expression": "talk",
+			"text": "my life no longer makes sense",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.06
+		},
+		{
+			"expression": "talk",
+			"text": "since the corruption began, this has become a hell.",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.08
+		},
+		{
+			"expression": "talk",
+			"text": "all because of you...",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.065
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.2
+		},
+		{
+			"expression": "talk",
+			"text": "before... I used to run away from the people who followed me... and now, it's everybody.",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.085
+		},
+		{
+			"expression": "talk",
+			"text": "all my friends died... because of you... and that damn bastard...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't even know if I am the only survivor...",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "but yes I am ..",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.07
+		},
+		{
+			"expression": "talk",
+			"text": ".........",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.215
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.1
+		},
+		{
+			"expression": "talk",
+			"text": "I will finish this..",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.09
+		},
+		{
+			"expression": "talk",
+			"text": "I will end this torture that I am causing myself...",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.075
+		},
+		{
+			"expression": "talk",
+			"text": "I...",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.065
+		},
+		{
+			"expression": "talk",
+			"text": "......",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.085
+		},
+		{
+			"expression": "talk",
+			"text": "Since I'm already getting corrupted there's..",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "no...",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "point....",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.09
+		},
+		{
+			"expression": "talk",
+			"text": "......",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.065
+		},
+		{
+			"expression": "talk",
+			"text": ".....",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.08
+		},
+		{
+			"expression": "talk",
+			"text": "we finish this..",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.08
+		}
+	]
+}

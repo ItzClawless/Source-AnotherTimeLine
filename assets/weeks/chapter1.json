@@ -1,0 +1,57 @@
+{
+	"storyName": "the last hope...",
+	"hideFreeplay": false,
+	"weekBackground": "whitty1",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Deprave",
+			"whittyC",
+			[
+				80,
+				40,
+				80
+			]
+		],
+		[
+			"Pressure",
+			"whittyC2",
+			[
+				120,
+				40,
+				80
+			]
+		],
+		[
+			"Infernum",
+			"whittyCrazyC",
+			[
+				180,
+				40,
+				80
+			]
+		],
+		[
+			"Vexation",
+			"whittyVexation",
+			[
+				255,
+				40,
+				140
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "the chase"
+}
